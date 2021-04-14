@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GitHubUsersSearchApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="search">Search</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="page_title">Github Users Search Engine</string>
+    <string name="user_avatar">User avatar</string>
+    <string name="repo">Repo</string>
+    <string name="view_following">View Following</string>
+    <string name="view_repo">View Repo</string>
+    <string name="view_followers">View Followers</string>
+</resources>
